@@ -61,3 +61,39 @@
     - Triângulo Retângulo: possui um ângulo reto. (igual a 90º)
     - Triângulo Obtusângulo: possui um ângulo obtuso. (maior que 90º)
     - Triângulo Acutângulo: possui três ângulos agudos. (menor que 90º)
+
+### Exercício 12
+
+- Crie um programa que verifica se um número é positivo, negativo ou zero.
+
+### Exercício 13
+
+- Escreva um programa que verifica se um número é par ou ímpar.
+
+### Exercício 14
+
+- Faça um programa que verifica se um número é múltiplo de 5 e de 7 ao mesmo tempo.
+
+### Exercício 15
+
+- Escreva um programa que verifica se um ano é bissexto ou não.
+
+### Exercício 16
+
+- Escreva um programa que verifica se uma palavra é um palíndromo (ou seja, se pode ser lida da mesma forma de trás para frente).
+
+### Exercício 17
+
+- Crie um programa que verifica se uma pessoa pode dirigir, baseado na sua idade (maior de 18 anos e possuindo CNH).
+
+### Exercício 18
+
+- Faça um programa que calcula o IMC (Índice de Massa Corporal) e diz em qual faixa de peso a pessoa se encontra (abaixo do peso, peso normal, sobrepeso, obesidade).
+
+### Exercício 19
+
+- Escreva um programa que recebe uma data (dia, mês e ano) e verifica se é uma data válida (levando em conta meses com 30 ou 31 dias, e fevereiro com 28 ou 29 dias em anos bissextos).
+
+### Exercício 20
+
+- Crie um programa que simula um jogo de pedra, papel e tesoura contra o computador. O programa deve solicitar ao jogador que escolha pedra, papel ou tesoura, e em seguida, o computador escolhe aleatoriamente. O programa deve então determinar o vencedor da rodada.
