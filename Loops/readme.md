@@ -84,3 +84,44 @@
 ### Exercício 20
 
 - Altere o programa anterior para mostrar no final a soma dos números.
+
+### Exercício 21
+
+- Faça um programa que peça dois números, base e expoente, calcule e mostre o primeiro número elevado ao segundo número. Não utilize a função de potência da linguagem.
+
+### Exercício 22
+
+- Faça um programa que peça 10 números inteiros, calcule e mostre a quantidade de números pares e a quantidade de números ímpares.
+
+### Exercício 23
+
+- A série de Fibonacci é formada pela sequência 1,1,2,3,5,8,13,21,34,55,... Faça um programa capaz de gerar a série até o nonagésimo termo.
+
+### Exercício 24
+
+- A série de Fibonacci é formada pela sequência 0,1,1,2,3,5,8,13,21,34,55,... Faça um programa que gere a série até que o valor seja maior que 500.
+
+### Exercício 25
+
+- Faça um programa que calcule o fatorial de um número inteiro fornecido pelo usuário. Ex.: 5!=5.4.3.2.1=120
+
+### Exercício 26
+
+- Faça um programa que, dado um conjunto de N números, determine o menor valor, o maior valor e a soma dos valores.
+
+
+### Exercício 27
+
+- Altere o programa anterior para que ele aceite apenas números entre 0 e 1000.
+
+### Exercício 28
+
+- Altere o programa de cálculo do fatorial, permitindo ao usuário calcular o fatorial várias vezes e limitando o fatorial a números inteiros positivos e menores que 16.
+
+### Exercício 29
+
+- Faça um programa que peça um número inteiro e determine se ele é ou não um número primo. Um número primo é aquele que é divisível somente por ele mesmo e por 1.
+
+### Exercício 30
+
+- Altere o programa de cálculo dos números primos, informando, caso o número não seja primo, por quais número ele é divisível.
